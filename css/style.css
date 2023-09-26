@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    
+}   
+
+a{
+    text-decoration: none;
+    color: #000;
+}
+a:hover{
+    color: red;
+    
+}
+body{
+   background-color: lightslategrey;
+
+}
+a{
+    background-color: lightslategrey;
+}
+h2{
+    color: blue;
+}
+
+
+p {
+    text-align: justify;
+}
